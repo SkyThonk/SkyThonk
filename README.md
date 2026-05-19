@@ -73,11 +73,7 @@ Over the past 4 years, I’ve worked across enterprise SaaS products delivering 
 
 ![](https://komarev.com/ghpvc/?username=SkyThonk&label=Profile+Views&color=blue&style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api?username=SkyThonk&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=SkyThonk&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyThonk&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyThonk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
