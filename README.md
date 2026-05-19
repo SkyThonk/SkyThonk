@@ -2,7 +2,7 @@
 
 Full-stack & GenAI developer specialized in building scalable multi-tenant SaaS platforms, distributed systems, and microservices architectures.
 
-Over the past 3.5+ years, I’ve worked across enterprise SaaS products delivering production-grade backend systems, frontend platforms, mobile apps, and AI-powered workflows using .NET, Angular, React, Flutter, cloud infrastructure, and modern AI tooling.
+Over the past 4 years, I’ve worked across enterprise SaaS products delivering production-grade backend systems, frontend platforms, mobile apps, and AI-powered workflows using .NET, Angular, React, Flutter, cloud infrastructure, and modern AI tooling.
 
 ---
 
@@ -73,9 +73,11 @@ Over the past 3.5+ years, I’ve worked across enterprise SaaS products deliveri
 
 ![](https://komarev.com/ghpvc/?username=SkyThonk&label=Profile+Views&color=blue&style=for-the-badge)
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyThonk&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=SkyThonk&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyThonk&layout=compact&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=SkyThonk&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyThonk&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
