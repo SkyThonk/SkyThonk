@@ -62,10 +62,12 @@ Over the past 4 years, I’ve worked across enterprise SaaS products delivering 
 
 ## 🌐 Connect With Me
 
-- Portfolio → https://akash-jaiswal.web.app/
-- LinkedIn → https://linkedin.com/in/akashj77
-- Medium → https://akashjwork.medium.com
-- GitHub → https://github.com/SkyThonk
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akash-jaiswal.web.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashj77)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://akashjwork.medium.com)
+
 
 ---
 
